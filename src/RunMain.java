@@ -11,6 +11,8 @@ public class RunMain {
         String frase;
         String nTelefone;
         int tamanho;
+        
+        //EXT FILE INPUT
 
         Scanner input = new Scanner(System.in);
 
